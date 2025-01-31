@@ -21,7 +21,7 @@ repository               : "https://github.com/rldiaz14/rdiaz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\Users\rldia\Documents\rdiaz.github.io\images\ProfilePicture.png" # Profile image in /images
+  avatar           : "ProfilePicture.png" # Profile image in /images
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Willow Street, PA"
