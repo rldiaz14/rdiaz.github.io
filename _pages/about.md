@@ -7,16 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-![Hi! My name is Ramon]
-* I am currently seeking my Master in Computer Science: with Focus Artificial Intellingence and Machine Learning
+[Hi! My name is Ramon]
+I am currently seeking my Master in Computer Science: with Focus Artificial Intellingence and Machine Learning
 
 ======
-# Certificates
-======
 # Research Interest
-* 
+* Large Language Model (LLM): 
+======
+
 ------
 # Research Collaboration
 ------
+# Conference 
+Carnegie Mellon University (CMU)
+21 Safety Road Nov 2024
+
 ------
 ------
