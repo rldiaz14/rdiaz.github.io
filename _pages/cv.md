@@ -26,23 +26,23 @@ Work experience
 ======
 Software Developer Intern (June 2024 – Present)
 Jitsik LLC – Philadelphia P.A
-•	Optimized simulation setup on Ubuntu 22.04, adjusting initialization script and setting to improve build efficiency and system stability.
-•	Developed urban map for VR Simulation, enhancing immersive experience through accurate and detailed environmental modeling.
+*	Optimized simulation setup on Ubuntu 22.04, adjusting initialization script and setting to improve build efficiency and system stability.
+*	Developed urban map for VR Simulation, enhancing immersive experience through accurate and detailed environmental modeling.
 
 
 Game Programmer Intern (June 2023 – June 2024)
 Warrior Heart Studio LLC – Spring Grove PA.
-•	Spearheaded the creation of comprehensive system documentation with google drive, establishing clear guidelines for future development phases.
-•	Conceptualize and document core character mechanics by using pseudo code, laying the groundwork for gameplay elements. 
-•	Led the blueprinting process for interactive components, developing a modular system for gameplay puzzle integration. 
-•	Identified and documented potential system challenges, offering preemptive solutions to streamline future development efforts
+*	Spearheaded the creation of comprehensive system documentation with google drive, establishing clear guidelines for future development phases.
+*	Conceptualize and document core character mechanics by using pseudo code, laying the groundwork for gameplay elements. 
+*	Led the blueprinting process for interactive components, developing a modular system for gameplay puzzle integration. 
+*	Identified and documented potential system challenges, offering preemptive solutions to streamline future development efforts
 
 
 Machine Learning Engineer Intern (Dec 2023 – April 2024)
 Future State University – San Francisco, CA.
-•	Collaborated in establishing an efficient connection between Unreal Engine and OpenAI enabling the development of an interactive Non-Player Character (NPC).
-•	Collaborated weekly to review completed tasks and strategize next steps for the product launch, enhancing team alignment and project momentum.
-•	Configured multiple assistants in OpenAI to initiate and manage NPC, creating effective communication using Whisper Model and ChatGPT4 model inside Unreal Engine.
+*	Collaborated in establishing an efficient connection between Unreal Engine and OpenAI enabling the development of an interactive Non-Player Character (NPC).
+*	Collaborated weekly to review completed tasks and strategize next steps for the product launch, enhancing team alignment and project momentum.
+*	Configured multiple assistants in OpenAI to initiate and manage NPC, creating effective communication using Whisper Model and ChatGPT4 model inside Unreal Engine.
 
   
 Skills
